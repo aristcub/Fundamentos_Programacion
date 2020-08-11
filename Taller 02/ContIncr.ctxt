@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ContIncr
+comment1.params=
+comment1.target=ContIncr()
+comment2.params=c\ i
+comment2.target=ContIncr(int,\ int)
+comment3.params=i
+comment3.target=void\ estIncr(int)
+comment4.params=
+comment4.target=void\ incr()
+comment5.params=
+comment5.target=int\ obtCont()
+comment6.params=
+comment6.target=void\ reiniciar()
+numComments=7

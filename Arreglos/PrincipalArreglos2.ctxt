@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrincipalArreglos2
+comment1.params=l
+comment1.target=int[]\ creacionArreglo(int)
+comment2.params=a
+comment2.target=void\ imprimirArreglo(int[])
+comment3.params=Args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

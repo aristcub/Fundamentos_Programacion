@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=subArreglo
+comment1.params=arreglo
+comment1.target=int[]\ subArregloPares(int[])
+comment2.params=arreglo
+comment2.target=int[]\ subArregloMayor(int[])
+comment3.params=arreglo
+comment3.target=double[]\ subArregloMenor(double[])
+comment4.params=arreglo
+comment4.target=java.lang.String[]\ subArregloVocal(java.lang.String[])
+comment5.params=Args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

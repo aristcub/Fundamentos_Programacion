@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=EdificioComercial
+comment1.params=n\ d\ p\ ne\ tn
+comment1.target=EdificioComercial(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment10.params=t
+comment10.target=void\ setTipoDeNegocio(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getTipoDeNegocio()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=n
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=d
+comment4.target=void\ setDireccion(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDireccion()
+comment6.params=p
+comment6.target=void\ setPisos(int)
+comment7.params=
+comment7.target=int\ getPisos()
+comment8.params=n
+comment8.target=void\ setNegocios(int)
+comment9.params=
+comment9.target=int\ getNegocios()
+numComments=13

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Planeta
+comment1.params=n\ m
+comment1.target=Planeta(java.lang.String,\ float)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=float\ getMasa()
+comment4.params=n
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=m
+comment5.target=void\ setMasa(float)
+numComments=6

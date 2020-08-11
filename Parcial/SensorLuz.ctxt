@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SensorLuz
+comment1.params=min\ max
+comment1.target=SensorLuz(int,\ int)
+comment2.params=i
+comment2.target=void\ setIntensidad(int)
+comment3.params=
+comment3.target=int\ getIntensidad()
+comment4.params=
+comment4.target=int\ duplicarIntensidad()
+numComments=5

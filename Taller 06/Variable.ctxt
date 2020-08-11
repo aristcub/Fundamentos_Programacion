@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Variable
+comment1.params=s
+comment1.target=java.lang.String\ mostrar(java.lang.String)
+comment2.params=i
+comment2.target=java.lang.String\ mostrar(int)
+comment3.params=d
+comment3.target=java.lang.String\ mostrar(double)
+comment4.params=c
+comment4.target=java.lang.String\ mostrar(char)
+comment5.params=b
+comment5.target=java.lang.String\ mostrar(boolean)
+numComments=6

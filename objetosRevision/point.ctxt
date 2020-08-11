@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=point
+comment1.params=
+comment1.target=point()
+comment2.params=x\ y
+comment2.target=point(double,\ double)
+comment3.params=p2
+comment3.target=point(point)
+comment4.params=x
+comment4.target=void\ setX(double)
+comment5.params=
+comment5.target=double\ getX()
+comment6.params=y
+comment6.target=void\ setY(double)
+comment7.params=
+comment7.target=double\ getY()
+comment8.params=p2
+comment8.target=double\ distance(point)
+comment9.params=p1\ p2
+comment9.target=point\ puntoMedio(point,\ point)
+numComments=10

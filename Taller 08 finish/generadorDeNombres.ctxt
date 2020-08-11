@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=generadorDeNombres
+comment1.params=sexo
+comment1.target=java.lang.String\ generarNombre(java.lang.String)
+comment2.params=Args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=public\ static\ persona\ []\ ordenarAlfabetico0(persona\ []\ p){\n\ \ \ \ \ \ \ \ String\ key\ \=\ "ABCDEFGHIJKLMNOPQRSTUVXYZ";\n\ \ \ \ \ \ \ \ persona\ []\ ans\ \=\ p;\n\ \ \ \ \ \ \ \ //Arrays.sort(p);\n\ \ \ \ \ \ \ \ int\ n\ \=\ p.length;\n\ \ \ \ \ \ \ \ persona\ temp;\n\ \ \ \ \ \ \ \ int\ cont\ \=\ 0;\n\ \ \ \ \ \ \ \ for(int\ i\ \=\ 0;\ i<key.length();\ i++){\n\ \ \ \ \ \ \ \ \ \ \ \ for(int\ j\ \=\ 0;\ j<ans.length;\ j++){\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(key.charAt(i)\=\=ans[j].getNombre().charAt(0)){\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ temp\ \=\ p[n-1-cont];\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ans[ans.length-1-cont]\=\ p[j];\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ans[j]\=\ temp;\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ cont\ ++;\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ cont\ \=0;\n\ \ \ \ \ \ \ \ \ \ \ \ }\ \ \n\ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ return\ ans;\n}*
+numComments=3

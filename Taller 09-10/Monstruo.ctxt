@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Monstruo
+comment1.params=
+comment1.target=Monstruo()
+comment2.params=n\ s
+comment2.target=Monstruo(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ moverse()
+numComments=4

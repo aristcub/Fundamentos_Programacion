@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=calculadora
+comment1.params=Args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=a\ b
+comment3.target=double\ sumar(double,\ double)
+comment4.params=a\ b
+comment4.target=double\ restar(double,\ double)
+comment5.params=a\ b
+comment5.target=double\ dividir(double,\ double)
+comment6.params=a\ b
+comment6.target=double\ multiplicar(double,\ double)
+comment7.params=a
+comment7.target=double\ raiz(double)
+comment8.params=b\ e
+comment8.target=double\ potencia(double,\ double)
+numComments=9

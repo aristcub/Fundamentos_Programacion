@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ContadorLimiteRegreso
+comment1.params=lim
+comment1.target=ContadorLimiteRegreso(int)
+comment2.params=
+comment2.target=int\ obtActual()
+numComments=3

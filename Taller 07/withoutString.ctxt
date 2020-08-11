@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=withoutString
+comment1.params=b\ e
+comment1.target=java.lang.String\ withoutString(java.lang.String,\ java.lang.String)
+comment2.params=Args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

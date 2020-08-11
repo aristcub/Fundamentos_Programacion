@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=generadorDeNombres
+comment1.params=sexo
+comment1.target=java.lang.String\ generarNombre(java.lang.String)
+comment2.params=Args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

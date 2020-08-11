@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=invertir
+comment1.params=arreglo
+comment1.target=int[]\ invertirArreglo(int[])
+comment2.params=arreglo
+comment2.target=double[]\ invertirReales(double[])
+comment3.params=arreglo
+comment3.target=java.lang.String[]\ invertirString(java.lang.String[])
+comment4.params=arreglo
+comment4.target=int[]\ invertirEnteros(int[])
+comment5.params=arreglo
+comment5.target=java.lang.String[]\ invertirStringMayusculas(java.lang.String[])
+comment6.params=Args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

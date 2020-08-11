@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=contadorParImpar
+comment1.params=
+comment1.target=int\ obtPar()
+comment2.params=
+comment2.target=int\ obtImpar()
+comment3.params=n
+comment3.target=void\ contar(int)
+numComments=4
